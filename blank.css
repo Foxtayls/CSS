@@ -1,0 +1,235 @@
+body {
+background: url('https://news.clemson.edu/wp-content/uploads/2021/06/science-fish-41067725.jpg');
+background-attachment:fixed;
+background-size:100%;
+color:#A9DBB8;}
+  
+
+div.container.main 
+{
+background:none;
+box-shadow:none;
+color:#A9DBB8;
+}
+
+div.col-md-9.col-xs-12 {background:none;border:none;
+color:#A9DBB8;
+position: relative;
+}
+  
+h1 {
+color:#A9DBB8;
+text-align:center;
+font-family:'Brush Script MT';}
+
+h2 {
+color:#A9DBB8;
+text-align:center;
+font-family:'Brush Script MT';}
+
+#sidebar h2 {
+color:#A9DBB8;
+text-align:center;
+font-family:'Brush Script MT';}
+
+h3 {
+color:#A9DBB8!important;
+text-align:center;
+font-family:'Brush Script MT';}
+
+th {
+background:url('https://assets.technologynetworks.com/production/dynamic/images/content/321012/the-art-of-forming-uniform-gas-bubbles-in-liquid-321012-960x540.jpg?cb=10244854');
+color:#A9DBB8;}
+
+td {
+background:#020887!important;
+color:#C6EBBE;}
+
+td.top {
+background:url('https://assets.technologynetworks.com/production/dynamic/images/content/321012/the-art-of-forming-uniform-gas-bubbles-in-liquid-321012-960x540.jpg?cb=10244854')!important;
+color:#A9DBB8;}
+
+td.bottom {
+background:url('https://assets.technologynetworks.com/production/dynamic/images/content/321012/the-art-of-forming-uniform-gas-bubbles-in-liquid-321012-960x540.jpg?cb=10244854')!important;
+color:#A9DBB8;}
+
+td.right, .right_odd {
+background:#020887!important;
+color:#C6EBBE;}
+
+div.left {
+background:#020887!important;
+color:#C6EBBE;}
+
+td.right_cub {
+background:#020887!important;
+color:#C6EBBE;} 
+
+td.left {
+background-color:#020887!important;
+color:#C6EBBE;}
+
+div.container.topbar {
+background:url('https://assets.technologynetworks.com/production/dynamic/images/content/321012/the-art-of-forming-uniform-gas-bubbles-in-liquid-321012-960x540.jpg?cb=10244854');
+border-radius:25px;
+color:#A9DBB8;}
+
+.navbar {
+background:#020887;
+color:#C6EBBE;}
+
+.cave-grid {
+	background-color:#020887;
+}
+
+body > div.container.main > div:nth-child(2) > div.col-md-9.col-xs-12 > center > div:nth-child(14) > a > div > img {
+	content: url('https://ih1.redbubble.net/image.60088184.6145/flat,550x550,075,f.u2.jpg')!important;
+}
+
+body > div.container.main > div:nth-child(2) > div.col-md-9.col-xs-12 > center > div:nth-child(13) > a > div > img {
+	content: url('https://ih1.redbubble.net/image.60088184.6145/flat,550x550,075,f.u2.jpg')!important;
+}
+
+body > div.container.main > div:nth-child(2) > div.col-md-9.col-xs-12 > center > div:nth-child(15) > a > div > img {
+	content: url('https://ih1.redbubble.net/image.60088184.6145/flat,550x550,075,f.u2.jpg')!important;
+}
+body > div.container.main > div:nth-child(2) > div.col-md-9.col-xs-12 > center > div:nth-child(12) > a > div > img {
+    content: url('https://ih1.redbubble.net/image.60088184.6145/flat,550x550,075,f.u2.jpg')!important;
+}
+body > div.container.main > div:nth-child(2) > div.col-md-9.col-xs-12 > center > div:nth-child(11) > a > div > img {
+    content: url('https://ih1.redbubble.net/image.60088184.6145/flat,550x550,075,f.u2.jpg')!important;
+}
+
+body > div.container.main > div:nth-child(2) > div.col-md-9.col-xs-12 > center > div:nth-child(10) > a > div > img {
+    content: url('https://ih1.redbubble.net/image.60088184.6145/flat,550x550,075,f.u2.jpg')!important;
+}
+body > div.container.main > div:nth-child(2) > div.col-md-9.col-xs-12 > center > div:nth-child(9) > a > div > img {
+    content: url('https://ih1.redbubble.net/image.60088184.6145/flat,550x550,075,f.u2.jpg')!important;
+}
+
+.featured-lion {
+	background-color:#020887;
+}
+.featured-lion a {
+	color:gray;
+}
+
+.mound-grid {
+	background-color:#020887;
+}
+
+div.alert.alert-danger {
+	background-color:#38369A;
+	color:#7CA5B8;
+}
+
+div.alert.alert-success {
+	background-color:#38369A;
+	color:#7CA5B8;
+}
+
+div.feature {
+	background-color:#38369A;
+	color:#7CA5B8;
+}
+
+ol.breadcrumb {
+background:url('https://assets.technologynetworks.com/production/dynamic/images/content/321012/the-art-of-forming-uniform-gas-bubbles-in-liquid-321012-960x540.jpg?cb=10244854');
+color:#A9DBB8;}
+
+a:link {color:#C6EBBE;}    
+a:visited {color:#C6EBBE;}
+a:hover {color:#A9DBB8;}  
+a:active {color:#A9DBB8;}
+
+.table a:link {color:#C6EBBE;}
+.table a:visited  {color:#C6EBBE;} 
+.table a:hover {color:#A9DBB8;}  
+.table a:active {color:#A9DBB8;} 
+
+#sidebar a:link {color:#C6EBBE;} 
+#sidebar a:visited {color:#C6EBBE;} 
+#sidebar a:hover {color:#A9DBB8;} 
+#sidebar a:active {color:#A9DBB8;}  
+
+div.left a:link {color:#C6EBBE;} 
+div.left a:visited {color:#C6EBBE;}
+div.left a:hover {color:#A9DBB8;} 
+div.left a:active {color:#A9DBB8;}
+
+div.container.topbar a:link {color:#C6EBBE;} 
+div.container.topbar a:visited {color:#C6EBBE;}
+div.container.topbar a:hover {color:#A9DBB8;}
+div.container.topbar a:active {color:#A9DBB8;}
+
+.sidebar.col-md-3.visible-lg {background:#38369A;color:#7CA5B8;background-image:none;}
+
+.panel, .xsmall {background:none!important;}
+.col-md-3 .panel {border:none;box-shadow:none;}
+
+div.s-chat-message_mention {color:#000000!important;background-color:#4169E1!important;border-left-color:#0F37AF!important;}
+div.a.s-chat__username {color:#FFFFFF;}
+div.s-chat-message.hasContext {color:#000000!important;background-color:#4169E1!important;border-left-color:#0F37AF!important;}
+
+div.s-chat-message:nth-child(even) {color:white;background-color:#504A4B;}
+div.s-chat-message:nth-child(odd) {color:white;background-color:#000000;}
+span.s-chat-message_timestamp {color:#c0c0c0;}
+#label_currentChannel {color:black;background:#4863A0;}
+
+input[type="submit"], input[type="button"] {background:#C0C0C0;color:black;text-shadow:none;border:none;}
+
+input[type="submit"]:hover, input[type="button"]:hover
+{
+background:url('https://wallpapercave.com/wp/Kj5cd8B.jpg');
+color:white;
+text-shadow:none;
+border:none;
+}
+
+textarea {color:black;}
+
+input[type="text"] {color:black;}
+
+select {color:black;}
+
+.progress-bar-warning {background-color:#659EC7!important;}
+
+.progress-bar-danger {background-color:#659EC7!important;}
+
+.progress-bar-success {background-color:#659EC7!important;}
+
+.progress-bar {background-color:#659EC7!important;}
+
+.progress {background-color:white!important;}
+
+.progress div {color:black;}
+
+.navbar-default .navbar-nav > li > a {color:silver!important;}
+
+body > div.container.main > div:nth-child(2) > div.col-md-9.col-xs-12 > center > div.feature.auto.center {background-color:#FF2400;color:black;opacity:0.7;filter:alpha(opacity=70);}
+
+div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+content: url('https://i.imgur.com/dQo389q.png');
+}
+
+div.hidden-xs {
+    position:relative;
+}
+
+.container main {
+    position: relative;
+}
+
+div.credit {
+    color:#ffffff;
+    background-color: #000000;
+    width:140px;
+    height: 50px;
+    margin:3px;
+    border:3px solid grey;
+    z-index: 1000;
+    position: fixed;
+    align-content: center;
+    right:90%;
+    top:90%;
+}
