@@ -12,7 +12,7 @@ box-shadow:none;
 color:#A9DBB8;
 }
 
-.comment:nth-child(even) {
+div.commentText {
     background-color: #020887;
 } 
 
