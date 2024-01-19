@@ -12,9 +12,9 @@ box-shadow:none;
 color:#A9DBB8;
 }
 
-#commentBox {
+.comment:nth-child(even) {
     background-color: #020887;
-}
+} 
 
 div.col-md-9.col-xs-12 {background:#020887;border:none;
 color:#A9DBB8;
