@@ -80,7 +80,7 @@ color:#C6EBBE;}
 
 div.cave-grid {
 	background-color:#020887;
-	img {content: url('https://ih1.redbubble.net/image.60088184.6145/flat,550x550,075,f.u2.jpg')!important;
+	background:url('https://ih1.redbubble.net/image.60088184.6145/flat,550x550,075,f.u2.jpg')!important;
 }
 
 body > div.container.main > div:nth-child(2) > div.col-md-9.col-xs-12 > center > div:nth-child(14) > a > div > img {
