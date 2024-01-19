@@ -78,12 +78,6 @@ color:#A9DBB8;}
 background:#020887;
 color:#C6EBBE;}
 
-#commentBox
-{
-	background:#020887;
-	color:#C6EBBE;
-}
-
 div.cave-grid {
 	background-color:#020887;
 	background:url('https://ih1.redbubble.net/image.60088184.6145/flat,550x550,075,f.u2.jpg')!important;
@@ -175,7 +169,7 @@ div.container.topbar a:active {color:#A9DBB8;}
 
 .sidebar.col-md-3.visible-lg {background:#38369A;color:#7CA5B8;background-image:none;}
 
-.panel, .xsmall {background:none!important;}
+.panel, .xsmall {background:#A9DBB8!important;}
 .col-md-3 .panel {border:none;box-shadow:none;}
 
 div.s-chat-message_mention {color:#000000!important;background-color:#4169E1!important;border-left-color:#0F37AF!important;}
